@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit00199&label=Profile%20views&color=06476f&style=flat" alt="amit00199" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarakshgoyal&label=Profile%20views&color=06476f&style=flat" alt="Tarakshgoyal" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning and DSA in C++**
 

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarakshgoyal&label=Profile%20views&color=06476f&style=flat" alt="Tarakshgoyal" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and DSA in C++**
+- 🌱 I’m currently Practising **Deep Learning and DSA in C++**
 
 - 📫 How to reach me **Taraksh.11425@stu.upes.ac.in**
 

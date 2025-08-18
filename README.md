@@ -1,14 +1,14 @@
 ![logo](https://github.com/Amit-S-Sahu/Amit-S-Sahu/blob/main/Git%20banner.gif)
-<h1 align="center">Hi 👋, I'm Taraksh Goyal</h1>
-<h3 align="center">I'm Taraksh Goyal, a first-year student at UPES, passionate about coding and technology. I'm on a journey of continuous learning, eager to tackle challenges and collaborate on exciting projects. Feel free to connect and let's create something great together!</h3>
+<h1 align="center">Hi 👋, I'm Taraksh Goyal AKA ZeroCalorie</h1>
+<h3 align="center">I'm Taraksh Goyal, a Second-year student at UPES, passionate about coding and technology. I'm on a journey of continuous learning, eager to tackle challenges and collaborate on exciting projects. Feel free to connect and let's create something great together!</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarakshgoyal&label=Profile%20views&color=06476f&style=flat" alt="Tarakshgoyal" /> </p>
 
-- 🌱 I’m currently Practising **Full Stack Development and DSA in C++**
+- 🌱 I’m currently Practising **Full Stack Development and ML Engineer**
 
-- 📫 How to reach me **Taraksh.11425@stu.upes.ac.in**
+- 📫 How to reach me **taraksh9a33@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

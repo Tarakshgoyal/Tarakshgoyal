@@ -46,3 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarakshgoyal&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="Tarakshgoyal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarakshgoyal&theme=dark" alt="Tarakshgoyal" /></p>
+
+<h3 align="left">📊 LeetCode Stats:</h3>
+<p><a href="https://leetcode.com/u/Taraksh/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Taraksh?theme=unicorn&ext=contest" alt="Taraksh" height="300"/></a></p>
+<p><a href="https://leetcode.com/u/Taraksh/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Taraksh?theme=unicorn&ext=heatmap" alt="Taraksh" height="300"/></a></p>

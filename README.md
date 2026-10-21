@@ -16,30 +16,16 @@
 
 ---
 
-```bash
-taraksh@zerocalorie:~/summit$ whoami
-> Taraksh Goyal, a.k.a. ZeroCalorie
-> 2nd-year CS @ UPES, Dehradun
-> Builds full-stack apps and ML systems. Collects peaks and bugs.
-
-taraksh@zerocalorie:~/summit$ cat altitude.txt
-          /\
-         /  \        /\
-        /    \  /\  /  \
-       /  /\  \/  \/    \
-      /  /  \        \   \
-     /__/____\________\___\
-   base camp ──► commits ──► summit
-```
+<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="terminal"/>
+</div>
 
 ## 🎮 Play before you scroll
 
 <div align="center">
-<a href="https://tarakshgoyal.github.io/Tarakshgoyal/game/">
-<img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20SUMMIT%20DEFENDER-00ff9c?style=for-the-badge&logo=gamedeveloper&logoColor=0d1117&labelColor=0d1117" alt="Play the game"/>
-</a>
+<a href="https://tarakshgoyal.github.io/Tarakshgoyal/game/"><img src="./assets/game-demo.svg" alt="Summit Defender gameplay. Click to play" width="100%"/></a>
 
-*Squash the bugs before they reach base camp. Keyboard or touch. Beat my best run.*
+*Live gameplay loop · click the screen to take over the controls*
 </div>
 
 ## 🐍 The snake is eating my commits

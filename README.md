@@ -44,7 +44,7 @@ Custom architecture, full training pipeline, and a lot of debugging: masking bug
 </details>
 
 <details>
-<summary><b>📦 Amazon ML Challenge 2025</b>: Smart Product Pricing</summary>
+<summary><b>📦 Amazon ML Challenge 2026</b>: Business Entity Resolution Challenge Finished in top 10% with 98.01 score</summary>
 <br>
 
 Multimodal price prediction from catalog text and product images, built to run on a 4GB GPU.

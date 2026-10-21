@@ -1,52 +1,109 @@
-![logo](https://github.com/Amit-S-Sahu/Amit-S-Sahu/blob/main/Git%20banner.gif)
-<h1 align="center">Hi 👋, I'm Taraksh Goyal AKA ZeroCalorie</h1>
-<h3 align="center">I'm Taraksh Goyal, a Second-year student at UPES, passionate about coding and technology. I'm on a journey of continuous learning, eager to tackle challenges and collaborate on exciting projects. Feel free to connect and let's create something great together!</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img src="./assets/summit.svg" alt="Taraksh Goyal · ZeroCalorie" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarakshgoyal&label=Profile%20views&color=06476f&style=flat" alt="Tarakshgoyal" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%8C%90;ML+Engineer+%F0%9F%A7%A0;Training+LLMs+from+scratch+%F0%9F%94%A5;Hacker+%2B+Mountain+Lover+%E2%9B%B0%EF%B8%8F" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently Practising **Full Stack Development and ML Engineer**
+<img src="https://komarev.com/ghpvc/?username=Tarakshgoyal&label=Summit+visitors&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="views"/>
 
-- 📫 How to reach me **taraksh9a33@gmail.com**
+<a href="https://www.linkedin.com/in/taraksh-goyal-86375831b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/></a>
+<a href="https://www.instagram.com/tarakshgoyal/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9c"/></a>
+<a href="https://www.leetcode.com/Taraksh"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff9c"/></a>
+<a href="https://www.hackerrank.com/taraksh9a33"><img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff9c"/></a>
+<a href="mailto:taraksh9a33@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c"/></a>
 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/taraksh-goyal-86375831b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-s-sahu" height="30" width="40" /></a>
-<!-- <a href="https://kaggle.com/amit00199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amit00199" height="30" width="40" /></a> -->
-<a href="[https://instagram.com/tarakshgoyal/](https://www.instagram.com/tarakshgoyal/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitssahu786" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lol" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/amit_s_sahu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_s_sahu" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/taraksh9a33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amit_s_sahu" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/amit-s-sahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amit-s-sahu" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/Taraksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit-s-sahu" height="30" width="40" /></a>
-</p>
+---
 
+```bash
+taraksh@zerocalorie:~/summit$ whoami
+> Taraksh Goyal, a.k.a. ZeroCalorie
+> 2nd-year CS @ UPES, Dehradun
+> Builds full-stack apps and ML systems. Collects peaks and bugs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-</p>
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarakshgoyal&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en&layout=compact" alt="Tarakshgoyal" /></p>
+taraksh@zerocalorie:~/summit$ cat altitude.txt
+          /\
+         /  \        /\
+        /    \  /\  /  \
+       /  /\  \/  \/    \
+      /  /  \        \   \
+     /__/____\________\___\
+   base camp ──► commits ──► summit
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tarakshgoyal&show_icons=true&theme=dark&title_color=2edcff&text_color=fef6f6&bg_color=001466&locale=en" alt="Tarakshgoyal" /></p>
+## 🎮 Play before you scroll
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarakshgoyal&theme=dark" alt="Tarakshgoyal" /></p>
+<div align="center">
+<a href="https://tarakshgoyal.github.io/Tarakshgoyal/game/">
+<img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20SUMMIT%20DEFENDER-00ff9c?style=for-the-badge&logo=gamedeveloper&logoColor=0d1117&labelColor=0d1117" alt="Play the game"/>
+</a>
 
-<h3 align="left">📊 LeetCode Stats:</h3>
-<p><a href="https://leetcode.com/u/Taraksh/" target="_blank"><img align="left" src="https://leetcard.jacoblin.cool/Taraksh?theme=unicorn&ext=contest" alt="Taraksh" height="300"/></a></p>
-<p><a href="https://leetcode.com/u/Taraksh/" target="_blank"><img align="center" src="https://leetcard.jacoblin.cool/Taraksh?theme=unicorn&ext=heatmap" alt="Taraksh" height="300"/></a></p>
+*Squash the bugs before they reach base camp. Keyboard or touch. Beat my best run.*
+</div>
+
+## 🐍 The snake is eating my commits
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarakshgoyal/Tarakshgoyal/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+</div>
+
+## 🧗 Current climbs
+
+<details open>
+<summary><b>🌪️ CYCLONE</b>: 45M-parameter recurrent-depth language model, trained from scratch</summary>
+<br>
+
+Custom architecture, full training pipeline, and a lot of debugging: masking bugs, representation collapse, and validation plumbing. Next up: a retrain with more diverse data and a latent reasoning mode.
+</details>
+
+<details>
+<summary><b>📦 Amazon ML Challenge 2025</b>: Smart Product Pricing</summary>
+<br>
+
+Multimodal price prediction from catalog text and product images, built to run on a 4GB GPU.
+</details>
+
+<details>
+<summary><b>🧠 COGNITION</b>: AI-assisted development bootcamp with the Microsoft Technical Committee</summary>
+<br>
+
+Helping organise an eight-week online curriculum covering full-stack, mobile, ML/DL and LLM tooling.
+</details>
+
+## 🧰 Gear
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux,mysql,react,nextjs,flask,tensorflow,sklearn,pandas,git,vscode&theme=dark" alt="skills"/>
+</div>
+
+## 📊 Altitude log
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tarakshgoyal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarakshgoyal&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="top languages"/>
+<br>
+<img src="https://streak-stats.demolab.com/?user=Tarakshgoyal&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="streak"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarakshgoyal&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Tarakshgoyal&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</div>
+
+<details>
+<summary><b>🧩 LeetCode trail</b></summary>
+<br>
+<div align="center">
+<a href="https://leetcode.com/u/Taraksh/"><img src="https://leetcard.jacoblin.cool/Taraksh?theme=dark&ext=contest" alt="LeetCode" height="300"/></a>
+<a href="https://leetcode.com/u/Taraksh/"><img src="https://leetcard.jacoblin.cool/Taraksh?theme=dark&ext=heatmap" alt="LeetCode heatmap" height="300"/></a>
+</div>
+</details>
+
+<details>
+<summary><b>🔐 classified</b> (don't open)</summary>
+<br>
+
+[Declassify the file](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=see%20you%20at%20the%20summit&fontColor=00ff9c&fontSize=22&fontAlignY=72" width="100%" alt="footer"/>

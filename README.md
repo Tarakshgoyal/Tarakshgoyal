@@ -44,7 +44,7 @@ Custom architecture, full training pipeline, and a lot of debugging: masking bug
 </details>
 
 <details>
-<summary><b>📦 Amazon ML Challenge 2026</b>: Business Entity Resolution Challenge Finished in top 10% with 98.01 score</summary>
+<summary><b>📦 Amazon ML Challenge 2025</b>: Smart Product Pricing</summary>
 <br>
 
 Multimodal price prediction from catalog text and product images, built to run on a 4GB GPU.
@@ -71,9 +71,12 @@ Helping organise an eight-week online curriculum covering full-stack, mobile, ML
 <br>
 <img src="https://streak-stats.demolab.com/?user=Tarakshgoyal&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="streak"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarakshgoyal&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="when I code" height="200"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most committed languages" height="200"/>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Tarakshgoyal&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+<img src="https://img.shields.io/badge/Training-CYCLONE_LLM-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Competing-Amazon_ML_Challenge_2025-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Studying-UPES_CS-00ff9c?style=for-the-badge&labelColor=0d1117"/>
 </div>
 
 <details>
